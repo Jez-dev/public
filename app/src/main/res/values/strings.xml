@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">examenJulioEstrada</string>
-    <string name="title_home">Usuarios</string>
-    <string name="title_dashboard">Agregar usuario</string>
-    <string name="title_notifications">Notifications</string>
-    <string name="numeroNomina">Numero de nómina</string>
-    <string name="nombre">Nombre</string>
-    <string name="area">Area</string>
-</resources>
